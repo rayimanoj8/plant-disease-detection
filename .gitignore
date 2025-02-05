@@ -1,6 +1,6 @@
 venv
 pyvenv.cfg
 __pycache__
-CODE
+plant-disease-detection
 instance/app.db
 .idea
