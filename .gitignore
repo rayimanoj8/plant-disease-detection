@@ -1,0 +1,6 @@
+venv
+pyvenv.cfg
+__pycache__
+CODE
+instance/app.db
+.idea
